@@ -1,0 +1,42 @@
+{
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 6000,
+  "workbench.editor.enablePreview": false,
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+  "editor.minimap.enabled": false,
+  "window.zoomLevel": 0,
+  "editor.renderWhitespace": "all",
+  "editor.trimAutoWhitespace": true,
+  "files.trimTrailingWhitespace": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.tabSize": 2,
+  "window.title": "${activeEditorMedium}${separator}${rootName}",
+  "files.insertFinalNewline": true,
+  "telemetry.enableTelemetry": false,
+  "telemetry.enableCrashReporter": false,
+  "workbench.settings.enableNaturalLanguageSearch": false,
+  "breadcrumbs.enabled": true,
+  "workbench.fontAliasing": "antialiased",
+  "editor.detectIndentation": false,
+  "ruby.lint": {
+    "rubocop": true
+  },
+  "ruby.intellisense": "rubyLocate",
+  "eslint.packageManager": "yarn",
+  "eslint.options": {
+    "configFile": ".eslintrc.json"
+  },
+  "emmet.includeLanguages": {
+    "erb": "html",
+    "javascript": "javascriptreact"
+  },
+  "explorer.confirmDelete": false,
+  "prettier.singleQuote": true,
+  "editor.formatOnSave": true,
+  "explorer.confirmDragAndDrop": false,
+  "editor.fontFamily": "Inconsolata for Powerline, Menlo, Monaco, 'Courier New', monospace",
+  "terminal.integrated.fontFamily": "Inconsolata for Powerline",
+  "terminal.integrated.lineHeight": 1.2,
+  "terminal.integrated.fontSize": 15,
+  "terminal.integrated.shell.osx": "/bin/zsh"
+}
