@@ -38,5 +38,6 @@
   "terminal.integrated.fontFamily": "Inconsolata for Powerline",
   "terminal.integrated.lineHeight": 1.2,
   "terminal.integrated.fontSize": 15,
-  "terminal.integrated.shell.osx": "/bin/zsh"
+  "terminal.integrated.shell.osx": "/bin/zsh",
+  "prettier.requireConfig": true
 }
